@@ -1,6 +1,6 @@
 # OOPLAI
 
-This repository contains code form the book [OOPLAI](https://users.dcc.uchile.cl/~etanter/ooplai/index.html).
+This repository contains code from the book [OOPLAI](https://users.dcc.uchile.cl/~etanter/ooplai/index.html).
 
 Summary of oop features from function to class, mixins and traits in this book.
 
@@ -8,7 +8,7 @@ Summary of oop features from function to class, mixins and traits in this book.
 1. object pattern
 1. factory pattern
 1. object and factory with self reference
-1. prototyped based oop on top of object object & factory pattern
+1. prototyped based oop on top of object pattern & factory pattern
 1. class pattern without inheritance
     1. extract shared methods of multiple objects as class
     1. class provides open recursion
